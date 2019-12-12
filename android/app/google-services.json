@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014033441870",
+    "firebase_url": "https://jomrent-user.firebaseio.com",
+    "project_id": "jomrent-user",
+    "storage_bucket": "jomrent-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014033441870:android:fb15af2578d12527e2cf1f",
+        "android_client_info": {
+          "package_name": "com.example.cat300"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014033441870-t4g12ptkt19hh07bdo6fq5apeee30v0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAECsNn48j5vtPCNhlqPYSEw7hQ3hBNagc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014033441870-t4g12ptkt19hh07bdo6fq5apeee30v0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
