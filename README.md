@@ -1,6 +1,6 @@
 # cat300
 
-A new Flutter application.
+A basic Car Rental App with Cloud Firestore as Backend. On-going project and still in development.
 
 ## Getting Started
 
