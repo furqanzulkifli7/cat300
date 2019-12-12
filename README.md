@@ -1,6 +1,6 @@
 # cat300
 
-A basic Car Rental App with Cloud Firestore as Backend. On-going project and still in development.
+A basic Car Rental App with Cloud Firestore as Backend purposely for university course project. On-going project and still in major development.
 
 ## Getting Started
 
